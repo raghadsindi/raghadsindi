@@ -1,4 +1,4 @@
-### Hello, I'm Raghad Saleh Sindi 
+### Hi, I'm Raghad Saleh Sindi 
 
 Data Scientist | ML models, BI dashboards, and applied AI tooling
 
@@ -9,9 +9,9 @@ with a focus on applying data science to real, local problems, from enterprise A
 to Arabic-language NLP.
 
 **Featured work:**
-- [Hajj Catering Sentiment Analysis](#) — Arabic NLP on 4,600+ tweets, 81% model accuracy
-- [Occupational Burnout Prediction](#) — SVM classifier, 93.42% accuracy on 150K records
-- [Saudi Superstore BI System](#) — Power BI + predictive modeling, R² = 0.831
+-  [Hajj Catering Sentiment Analysis](#) — Arabic NLP on 4,600+ tweets, 81% model accuracy
+-  [Occupational Burnout Prediction](#) — SVM classifier, 93.42% accuracy on 150K records
+-  [Saudi Superstore BI System](#) — Power BI + predictive modeling, R² = 0.831
 
 **Skills:** Python · SQL · R · Scikit-learn · Power BI · Microsoft Azure · Arabic NLP
 
