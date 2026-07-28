@@ -1,4 +1,4 @@
-### Hi, I'm Raghad Saleh Sindi 
+### Hi, I'm Raghad Sindi 
 
 Data Scientist | ML models, BI dashboards, and applied AI tooling
 
